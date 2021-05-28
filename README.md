@@ -12,4 +12,4 @@
 * https://github.com/mahdiyousofun/AED-algorithm/tree/master/Data 
 
 **Salinas**
-* https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW- 
+* https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-/blob/master/RS_Code.zip
