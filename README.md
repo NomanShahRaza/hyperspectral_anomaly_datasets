@@ -1,11 +1,15 @@
 # hyperspectral_anomaly_datasets
 
-## All datasets are publicly avalibale on the following links
+## All datasets are publicly available on the following links:
 
-* https://github.com/huyanning/Hyperspectral-Anomaly-Detection (AVIRIS-I)
+**AVIRIS-I**
+* https://github.com/huyanning/Hyperspectral-Anomaly-Detection
 
-* http://xudongkang.weebly.com/data-sets.html (All ABU datasets i.e., Airport(I-IV), Beach(I-IV) and Urban(I-V)
+**ABU-Airport(I-IV), ABU-Beach(I-IV) and ABU-Urban(I-V)**
+* http://xudongkang.weebly.com/data-sets.html 
 
-* https://github.com/mahdiyousofun/AED-algorithm/tree/master/Data (AVIRIS-II and HYDICE Urban Area)
+**AVIRIS-II and HYDICE Urban Area**
+* https://github.com/mahdiyousofun/AED-algorithm/tree/master/Data 
 
-* https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW- (Salinas)
+**Salinas**
+* https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW- 
