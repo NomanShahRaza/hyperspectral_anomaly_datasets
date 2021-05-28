@@ -1,4 +1,4 @@
-# hyperspectral_anomaly_datasets
+# Hyperspectral Anomaly Datasets
 
 ## All datasets are publicly available on the following links:
 
