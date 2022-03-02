@@ -1,6 +1,6 @@
 # Hyperspectral Anomaly Datasets
 
-## All datasets are publicly available on the following links:
+### *All datasets are publicly available on the following links:*
 
 **AVIRIS-I**
 * https://github.com/huyanning/Hyperspectral-Anomaly-Detection
